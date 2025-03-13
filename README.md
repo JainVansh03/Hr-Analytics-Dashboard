@@ -3,26 +3,34 @@ An interactive dashboard for analyzing employee attrition data, including insigh
 
 Features
 
-Total Employees & Attrition Rate: Displays key statistics like total employees, attrition count, and attrition rate.
+1. Total Employees & Attrition Rate: Displays key statistics like total employees, attrition count, and attrition rate.
 
-Demographic Insights: Analyzes attrition by age, gender, education, and salary slabs.
+2. Demographic Insights: Analyzes attrition by age, gender, education, and salary slabs.
 
-Job Role Analysis: Highlights attrition data categorized by various job roles.
+3. Job Role Analysis: Highlights attrition data categorized by various job roles.
 
-Interactive Visuals: Provides charts and graphs for easy data visualization and analysis.
+4. Interactive Visuals: Provides charts and graphs for easy data visualization and analysis.
 
-Department Filtering: View analytics by specific departments (e.g., Human Resources, R&D, Sales).
+5. Department Filtering: View analytics by specific departments (e.g., Human Resources, R&D, Sales).
 
 Dashboard Insights
 
-Attrition by Age: Visual representation of attrition counts across different age groups.
+1. Attrition by Age: Visual representation of attrition counts across different age groups.
 
-Attrition by Education: Donut chart showing attrition distribution by education field.
+2. Attrition by Education: Donut chart showing attrition distribution by education field.
 
-Attrition by Salary Slab: Breakdown of attrition rates by salary ranges.
+3. Attrition by Salary Slab: Breakdown of attrition rates by salary ranges.
 
-Attrition by Year at Company: Insight into how long employees stay before leaving.
+4. Attrition by Year at Company: Insight into how long employees stay before leaving.
 
-Attrition by Gender: Gender-based attrition statistics.
+5. Attrition by Gender: Gender-based attrition statistics.
 
-Attrition by Job Role: Detailed view of attrition numbers across different job positions.
+6. Attrition by Job Role: Detailed view of attrition numbers across different job positions.
+
+Usage
+
+1. Navigate through the dashboard using the department tabs.
+
+2. Hover over graphs for detailed statistics.
+
+3. Use filters to customize the data view.
